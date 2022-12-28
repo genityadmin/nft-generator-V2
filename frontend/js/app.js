@@ -1,5 +1,3 @@
-import Web3 from "web3";
-
 let accounts;
 
 // METAMASK CONNECTION
